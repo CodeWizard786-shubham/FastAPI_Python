@@ -1,4 +1,7 @@
 
+env:
+	python -m venv fastapi
+
 install:
 	pip install -r requirements.txt
 
